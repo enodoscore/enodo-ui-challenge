@@ -1,14 +1,32 @@
 # enodo-ui-challenge
 
-Your challenge, if you choose to accept it, is to take this unstyled vue.js project and turn it into the mockup below. In order to accomplish this, you may use whatever libraries you feel would work best or you may stick to just css. If you have any questions about the design, please reach out to Rob.
+## Part 1: The Mockup
+Your challenge, if you choose to accept it, is to take this unstyled Vue project and turn it into the mockup below:
 
-Then, in a second part, propose improvements to the proposed design taking style and UX into account.
+![](./mockup.png)
 
-We look forward to your submission. Good luck.
+### Design
+You may use whatever libraries you feel would work best or you may stick to just css.
 
-![](/mockup.png)
+### Functionality
+You may use whatever libraries you want here as well. There are few piecies of functionality we would like to see:
 
-## Project setup
+- Selecting any of the items in the side nav should change what we see in the main view. Placeholder pages are fine here.
+- Export should save a txt or csv file.
+- Clicking on the property address should open a modal or new tab showing the property on the map.
+- Anything else you can think of...be creative! We want to see what you can do.
+
+
+### Part 2: The Changes
+Either in the repo or an email propose improvements/changes to the design taking style and UX into account. If you had any ideas about functionality changes or additions add them in too.
+
+If you have any questions, please reach out to Kyle. We look forward to your submission.
+
+Good luck.
+
+
+
+# Project setup
 ```
 npm install
 ```
